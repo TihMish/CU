@@ -137,3 +137,4 @@ def _build_path(
         node = parent_goal[node]
 
     return path_start[::-1] + path_goal
+
